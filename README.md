@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)]
+[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)
 
 <h1 align="center">Hi 👋, I'm Gich</h1>
 <h3 align="center">All data is people data. In God we trust, y'all can bring the data!</h3>
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **python**
 
-- 🤝 I’m looking for help with **advanced analytic skills**
+- 🤝 I can help with with **your analytics needs**
 
-- 👨‍💻 All of my projects are available at [tbp](tbp)
+- 👨‍💻 All of my projects will be available very soon
 
-- 💬 Ask me about **Excel, Qlik Sense, Power BI, SQL, Python,**
+- 💬 Ask me about **Excel, Qlik Sense, Power BI, SQL, Python**
 
 - ⚡ Fun fact **I can dance!**
 
@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gich-hub&show_icons=true&locale=en&layout=compact" alt="gich-hub" /></p>
 
